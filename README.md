@@ -1,4 +1,4 @@
 # Hoverboard
 
-IN THIS WHEN YOU HOVER ON ANY BLOCK IT WILL GIVE ANY RANDOM COLOR AND THE COLOR WILL DISAPPEAR IN 2 SEC 
+in this project when we hover on a block it will give us a random color and will disappear in 2s 
 
